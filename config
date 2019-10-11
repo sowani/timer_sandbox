@@ -1,0 +1,10 @@
+localToggleIntervalMillisec=1000
+remoteToggleIntervalMillisec=1000
+remoteMaxNormalHBGapMillisec=1000
+
+missedToggleCountFailureThreshold=3
+missedAckCountFailureThreshold=3
+shortToggleCountFailureThreshold=3
+longToggleCountFailureThreshold=3
+longAckCountFailureThreshold=3
+longAckMillisec=1010
